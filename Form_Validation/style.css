@@ -153,3 +153,25 @@ button:hover {
     }
 }
 
+@media (max-width: 450px) {
+    body{
+        height: 120vh;
+    }
+    .form-container{
+        max-width: 230px;
+        width: 100%;
+        margin-left: 2rem;
+    }
+    .form-group input,
+    .form-group textarea {
+        width: 210px;
+        height: 100%;
+    }
+    .image img {
+        height: 300px;
+    }
+    .form-name{
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+}
