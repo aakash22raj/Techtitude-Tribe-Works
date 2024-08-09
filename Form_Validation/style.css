@@ -155,7 +155,7 @@ button:hover {
 
 @media (max-width: 450px) {
     body{
-        height: 120vh;
+        height: 130vh;
     }
     .form-container{
         max-width: 230px;
